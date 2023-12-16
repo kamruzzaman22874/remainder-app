@@ -1,0 +1,27 @@
+[
+    {
+        "img": "https://i.ibb.co/6FM9Z9D/fetured.webp",
+        "name": "Binny Watson",
+        "birthday": "1999-12-16"
+    },
+    {
+        "img": "https://i.ibb.co/Yb5txkG/fetured2.webp",
+        "name": "Lucas Hendy",
+        "birthday": "1996-12-17"
+    },
+    {
+        "img": "https://i.ibb.co/X45Xj9d/fetured1.webp",
+        "name": "Jonson Pitar",
+        "birthday": "1992-12-21"
+    },
+    {
+        "img": "https://i.ibb.co/7vtmmWC/category3.webp",
+        "name": "Sourav Gnaguly",
+        "birthday": "1993-10-25"
+    },
+    {
+        "img": "https://i.ibb.co/y02f8G8/category2.webp",
+        "name": "Shane Born",
+        "birthday": "2002-09-12"
+    }
+]
